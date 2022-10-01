@@ -4,7 +4,7 @@ public class Circle {
     private double radius;
 
     // constructor
-    public Circle(double rad) {
+    public Circle(double rad){
         radius = rad;
     }
 
